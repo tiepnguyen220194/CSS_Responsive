@@ -1,2 +1,2 @@
 # CSS_Responsive
-CSS_Responsive
+Cách chia khoảng Responsive
