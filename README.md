@@ -1,2 +1,1 @@
-# CSS_Responsive
-Cách chia khoảng Responsive
+# Cách chia khoảng Responsive
